@@ -5,6 +5,7 @@ AWS Account
 •	Create AWS Free Tier Account.
 
 •	Create a new Amazon S3 Bucket.
+
 An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services' (AWS) Simple Storage Service (S3), an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
 
 •	Create a new access key and secret key to access that S3 Bucket.
