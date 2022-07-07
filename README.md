@@ -12,6 +12,7 @@ An Amazon S3 bucket is a public cloud storage resource available in Amazon Web S
 
 
 Spring Boot Application
+
 •	Create a new Spring Boot Application with Lombok, Spring Web and AWS Core Dependency.
 
 •	In Application.yml define all the values like access-key, secret-key, region for S3 Bucket.
